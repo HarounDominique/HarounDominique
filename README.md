@@ -1,4 +1,4 @@
-# Hi! I'm Dominique Haroun
+# Hi! I'm Dominique
 
 - 🤓 I’m interested in mobile app and back-end development
 - 💪 The technology I know best is Java ♨️
