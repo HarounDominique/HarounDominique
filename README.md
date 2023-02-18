@@ -3,7 +3,7 @@
 - 🤓 I’m interested in mobile app and back-end development
 - 💪 The technology I know best is Java ♨️
 - 👓 Some of the technologies I'm familiar with are SQL, Python, Linux, git, Bash, Android...
-- 🔎 I’m currently learning Kotlin and C++ 
+- 🔎 I’m currently learning Kotlin 
 - 📫 You can contact me on haroundominique@gmail.com
 
 <!---
