@@ -1,10 +1,10 @@
 # Hi! I'm Dominique
 
 - 🤓 I’m interested in mobile app and back-end development
-- 💪 The technology I know the most is Java and Kotlin
-- 👓 Some of the technologies I'm familiar with are SQL, Python, Linux, git, Bash, Android...
-- 🔎 I’m currently learning Python
-- 📫 You can contact me on haroundominique@gmail.com
+- 💪 The technology I know the most is **Java** and **Kotlin**
+- 👓 Some of the technologies I'm familiar with are **SQL**, **Python**, **Linux**, **git**, **Bash**, **Android**...
+- 🔎 I’m currently learning **Python**
+- 📫 You can contact me on **haroundominique@gmail.com**
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
