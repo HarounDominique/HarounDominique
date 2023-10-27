@@ -2,8 +2,8 @@
 
 - 🤓 I’m interested in mobile app and back-end development
 - 💪 The technology I know the most is **Java** and **Kotlin**
-- 👓 Some of the technologies I'm familiar with are **SQL**, **Python**, **Linux**, **git**, **Bash**, **Android**...
-- 🔎 I’m currently learning **Python**
+- 👓 Some of the technologies I'm familiar with are **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash**, **Android**...
+- 🔎 I am currently studying **full stack** web development
 - 📫 You can contact me on **haroundominique@gmail.com**
 
 ### ⚙️ &nbsp;GitHub Analytics
