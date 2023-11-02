@@ -1,6 +1,6 @@
 # Hi! I'm Dominique
 
-- 🤓 I’m interested in mobile app and back-end development
+- 🤓 I’m interested in **back-end** and **mobile** app development
 - 💪 The technology I know the most is **Java** and **Kotlin**
 - 👓 Some of the technologies I'm familiar with are **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash**, **Android**...
 - 🔎 I am currently studying **full stack** web development
