@@ -1,12 +1,13 @@
 # Hi! I'm Dominique
 
-- 🚀 Passionate about development with a specialized focus on **back-end**, including data modeling and **database** management
+- 🚀 Passionate about software engineering with diverse experiences across desktop, mobile, full-stack web development, and embedded systems. Specialized focus on back-end, including data modeling and database management.
 - 💼 Proficient in **Java** and **Kotlin**
-- 👓 With hands-on experience in a range of technologies including **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash** and **Android**
+- ⚙️ Currently working with **Python** and **C++** for embedded systems. Continuously learning to reach a "proficient" level, with experience in back-end development.
+- ☝️🤓 With hands-on experience in a range of technologies including **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash** and **Android**
 - 🌱 Actively enhancing my skills in full-stack web development to stay ahead of industry trends
 - 📫 Reach me at **haroundominique@gmail.com**
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📈 &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/HarounDominique">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarounDominique&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
