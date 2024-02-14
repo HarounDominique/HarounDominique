@@ -1,6 +1,6 @@
 # < Hi! I'm Dominique />
 
-- 🚀 Passionate about software engineering with diverse experiences across desktop, mobile, full-stack web development, and embedded systems. Specialized focus on back-end, including data modeling and database management.
+- 🚀 Passionate about software engineering with diverse experiences across desktop, mobile, full-stack web development, and embedded systems. Specialized focus on back-end, including data modeling and database management
 - 💼 Proficient in **Java** and **Kotlin**
 - ⚙️ Currently working with **Python** and **C++** for embedded systems. Continuously learning to reach a "proficient" level, with experience in back-end development.
 - ☝️🤓 With hands-on experience in a range of technologies including **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash** and **Android**
