@@ -2,7 +2,7 @@
 
 - 🚀 Passionate about software engineering with diverse experiences across desktop, mobile, full-stack web development, and embedded systems. Specialized focus on back-end, including data modeling and database management
 - 💼 Proficient in **Java** and **Kotlin**
-- ⚙️ Continuously learning to reach a "proficient" level, with experience in back-end development.
+- ⚙️ Continuously learning to reach a proficient level, with experience in back-end development.
 - ☝️🤓 With hands-on experience in a range of technologies including **SQL**, **Angular**, **Spring**, **Spring Boot**, **Python**, **Linux**, **git**, **Bash**, **Android**, **Python** and **C++** for embedded systems.
 - 🌱 Actively enhancing my skills in full-stack web development to stay ahead of industry trends
 - 📫 Reach me at **haroundominique@gmail.com**
